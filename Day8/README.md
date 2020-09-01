@@ -1,3 +1,3 @@
-The output of Day 7 Assignment
+The output of Day 8 Assignment
 
 <img src="/output_images/Assignment8.jpg" >
